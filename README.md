@@ -1,2 +1,1 @@
-# train-js
-Anotações de estudo de JavaScript
+Aula de JavaScript.
